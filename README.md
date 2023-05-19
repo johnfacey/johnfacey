@@ -12,7 +12,7 @@ I am a Web Solutions Architect at Merkle/Dentsu.
 * 🚀  I'm currently working on [Open Black Belt](http://openblackbelt.com)
 * 🧠  I'm learning React, Vue and Web Components
 * 🤝  I'm open to collaborating on anything
-* ⚡  My interests include programming martial arts and my dogs.
+* ⚡  My interests include programming, martial arts and my dogs.
 
 <a href="https://www.twitter.com/johnfacey" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/johnfacey?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
