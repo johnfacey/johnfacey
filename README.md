@@ -14,7 +14,7 @@ I am a Web Solutions Architect at Merkle/Dentsu.
 * 🤝  I'm open to collaborating on anything
 * ⚡  My interests include programming, martial arts and my dogs.
 
-<a href="https://www.twitter.com/johnfacey" target="_blank" rel="noreferrer"><img
+<a href="https://bsky.app/profile/johnfacey.bsky.social" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/johnfacey?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 ### Skills
